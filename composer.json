@@ -23,7 +23,11 @@
         "ext-json": "*",
         "illuminate/contracts": "5.8.*|^6.0|^7.0|^8.0",
         "nesbot/carbon": "^2.24",
-        "orkhanahmadov/currencylayer": "^1.1"
+        "illuminate/container": "5.8.*|^6.0|^7.0|^8.0",
+        "illuminate/database": "5.8.*|^6.0|^7.0|^8.0",
+        "illuminate/support": "5.8.*|^6.0|^7.0|^8.0",
+        "nesbot/carbon": "^2.24",
+        "oceanapplications/currencylayer-php-client": "^1.4"
     },
     "require-dev": {
         "orchestra/testbench": "3.8.*|^4.0",
